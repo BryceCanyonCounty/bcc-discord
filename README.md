@@ -41,7 +41,7 @@ discord.sendMessage('webhookurl', 'My Script', 'https://cdn2.iconfinder.com/data
 })
 ```
 ## Need More Support? 
-- [Vorp Disord](https://discord.gg/DHGVAbCj7N)
+- [BCC Discord](https://discord.gg/cQMJaTqcqJ)
 
 ## Requirements
 - NONE! It's standalone.
